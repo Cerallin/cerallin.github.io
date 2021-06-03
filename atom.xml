@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>示例 Demo</title>
+  
+  <subtitle>转载请注明出处</subtitle>
+  <link href="https://www.cerallin.top/atom.xml" rel="self"/>
+  
+  <link href="https://www.cerallin.top/"/>
+  <updated>2021-06-03T15:05:27.995Z</updated>
+  <id>https://www.cerallin.top/</id>
+  
+  <author>
+    <name>Cerallin</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://www.cerallin.top/2021/06/03/Hello-World/"/>
+    <id>https://www.cerallin.top/2021/06/03/Hello-World/</id>
+    <published>2021-06-03T14:55:51.000Z</published>
+    <updated>2021-06-03T15:05:27.995Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>Description here</p></blockquote><p>Hello World.</p><a id="more"></a>]]></content>
+    
+    
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;Description here&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Hello World.&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="短篇集" scheme="https://www.cerallin.top/categories/%E7%9F%AD%E7%AF%87%E9%9B%86/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>字体</title>
+    <link href="https://www.cerallin.top/2020/06/03/%E5%AD%97%E4%BD%93/"/>
+    <id>https://www.cerallin.top/2020/06/03/%E5%AD%97%E4%BD%93/</id>
+    <published>2020-06-03T14:58:48.000Z</published>
+    <updated>2021-06-03T15:11:33.274Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>介绍放在这里</p></blockquote><p>默认中文字体：思源黑体</p><p>正文中文字体：思源宋体</p><p>默认英文字体：Raleway</p><a id="more"></a>]]></content>
+    
+    
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;介绍放在这里&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;默认中文字体：思源黑体&lt;/p&gt;
+&lt;p&gt;正文中文字体：思源宋体&lt;/p&gt;
+&lt;p&gt;默认英文字体：Raleway&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="短篇集" scheme="https://www.cerallin.top/categories/%E7%9F%AD%E7%AF%87%E9%9B%86/"/>
+    
+    
+    <category term="短篇" scheme="https://www.cerallin.top/tags/%E7%9F%AD%E7%AF%87/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>一个短篇</title>
+    <link href="https://www.cerallin.top/2019/11/09/%E6%B6%9F%E6%BD%BCx%E5%92%A9%E8%A6%81/"/>
+    <id>https://www.cerallin.top/2019/11/09/%E6%B6%9F%E6%BD%BCx%E5%92%A9%E8%A6%81/</id>
+    <published>2019-11-09T13:31:40.000Z</published>
+    <updated>2021-06-03T15:07:48.532Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>为群友所作。</p></blockquote><p>清晨，一缕阳光透过窗帘的缝隙照进少女的闺房。如果仔细听，不难发现窗外的云雀逐渐吵闹了起来，但这丝毫不会打扰熟睡中少女的清梦。</p><a id="more"></a><p>少女侧卧在柔软的大床上，抱着鲨鱼形状的抱枕，用下巴贴着它的鼻尖。少女双臂交叉成十字紧紧禁锢着鲨鱼抱枕，把它勒得变形，又用大腿夹紧它的尾巴。本来应该盖在身上的薄被早就被踢到一边去了。</p><p>继续看请移步<a href="https://www.cerallin.top/2020/11/09/%E6%B6%9F%E6%BD%BCx%E5%92%A9%E8%A6%81/#more">这里</a></p>]]></content>
+    
+    
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;为群友所作。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;清晨，一缕阳光透过窗帘的缝隙照进少女的闺房。如果仔细听，不难发现窗外的云雀逐渐吵闹了起来，但这丝毫不会打扰熟睡中少女的清梦。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="短篇集" scheme="https://www.cerallin.top/categories/%E7%9F%AD%E7%AF%87%E9%9B%86/"/>
+    
+    
+    <category term="短篇" scheme="https://www.cerallin.top/tags/%E7%9F%AD%E7%AF%87/"/>
+    
+    <category term="XX系列" scheme="https://www.cerallin.top/tags/XX%E7%B3%BB%E5%88%97/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>长篇 第三章</title>
+    <link href="https://www.cerallin.top/2019/06/02/%E9%95%BF%E7%AF%87-%E7%AC%AC%E4%B8%89%E7%AB%A0/"/>
+    <id>https://www.cerallin.top/2019/06/02/%E9%95%BF%E7%AF%87-%E7%AC%AC%E4%B8%89%E7%AB%A0/</id>
+    <published>2019-06-02T15:02:49.000Z</published>
+    <updated>2021-06-03T15:03:58.080Z</updated>
+    
+    <content type="html"><![CDATA[<p>Fin.</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Fin.&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    <category term="连载" scheme="https://www.cerallin.top/categories/%E8%BF%9E%E8%BD%BD/"/>
+    
+    
+    <category term="长篇" scheme="https://www.cerallin.top/tags/%E9%95%BF%E7%AF%87/"/>
+    
+    <category term="bar系列" scheme="https://www.cerallin.top/tags/bar%E7%B3%BB%E5%88%97/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>长篇 第二章</title>
+    <link href="https://www.cerallin.top/2019/06/02/%E9%95%BF%E7%AF%87-%E7%AC%AC%E4%BA%8C%E7%AB%A0/"/>
+    <id>https://www.cerallin.top/2019/06/02/%E9%95%BF%E7%AF%87-%E7%AC%AC%E4%BA%8C%E7%AB%A0/</id>
+    <published>2019-06-02T15:02:44.000Z</published>
+    <updated>2021-06-03T15:04:02.820Z</updated>
+    
+    <content type="html"><![CDATA[<p>Fin.</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Fin.&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    <category term="连载" scheme="https://www.cerallin.top/categories/%E8%BF%9E%E8%BD%BD/"/>
+    
+    
+    <category term="长篇" scheme="https://www.cerallin.top/tags/%E9%95%BF%E7%AF%87/"/>
+    
+    <category term="bar系列" scheme="https://www.cerallin.top/tags/bar%E7%B3%BB%E5%88%97/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>长篇 第一章</title>
+    <link href="https://www.cerallin.top/2019/06/02/%E9%95%BF%E7%AF%87-%E7%AC%AC%E4%B8%80%E7%AB%A0/"/>
+    <id>https://www.cerallin.top/2019/06/02/%E9%95%BF%E7%AF%87-%E7%AC%AC%E4%B8%80%E7%AB%A0/</id>
+    <published>2019-06-02T15:02:39.000Z</published>
+    <updated>2021-06-03T15:03:49.346Z</updated>
+    
+    <content type="html"><![CDATA[<p>Fin.</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Fin.&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    <category term="连载" scheme="https://www.cerallin.top/categories/%E8%BF%9E%E8%BD%BD/"/>
+    
+    
+    <category term="长篇" scheme="https://www.cerallin.top/tags/%E9%95%BF%E7%AF%87/"/>
+    
+    <category term="bar系列" scheme="https://www.cerallin.top/tags/bar%E7%B3%BB%E5%88%97/"/>
+    
+  </entry>
+  
+</feed>
